@@ -1,0 +1,5 @@
+C:\Users\anddy\source\repos\IfStatements2\IfStatements2\obj\Debug\net5.0\IfStatements2.csproj.AssemblyReference.cache
+C:\Users\anddy\source\repos\IfStatements2\IfStatements2\obj\Debug\net5.0\IfStatements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anddy\source\repos\IfStatements2\IfStatements2\obj\Debug\net5.0\IfStatements2.AssemblyInfoInputs.cache
+C:\Users\anddy\source\repos\IfStatements2\IfStatements2\obj\Debug\net5.0\IfStatements2.AssemblyInfo.cs
+C:\Users\anddy\source\repos\IfStatements2\IfStatements2\obj\Debug\net5.0\IfStatements2.csproj.CoreCompileInputs.cache

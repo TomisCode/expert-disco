@@ -1,0 +1,16 @@
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.exe
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.deps.json
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.runtimeconfig.json
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.runtimeconfig.dev.json
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.dll
+C:\Users\anddy\source\repos\NestedIf\NestedIf\bin\Debug\net5.0\NestedIf.pdb
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.csproj.AssemblyReference.cache
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.AssemblyInfoInputs.cache
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.AssemblyInfo.cs
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.csproj.CoreCompileInputs.cache
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.dll
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\refint\NestedIf.dll
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.pdb
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\NestedIf.genruntimeconfig.cache
+C:\Users\anddy\source\repos\NestedIf\NestedIf\obj\Debug\net5.0\ref\NestedIf.dll

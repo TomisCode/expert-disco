@@ -1,0 +1,16 @@
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.exe
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.deps.json
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.runtimeconfig.json
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.runtimeconfig.dev.json
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.dll
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\bin\Debug\net5.0\String Challenge 2.pdb
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.csproj.AssemblyReference.cache
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.AssemblyInfoInputs.cache
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.AssemblyInfo.cs
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.csproj.CoreCompileInputs.cache
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.dll
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\refint\String Challenge 2.dll
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.pdb
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\String Challenge 2.genruntimeconfig.cache
+C:\Users\anddy\source\repos\String Challenge 2\String Challenge 2\obj\Debug\net5.0\ref\String Challenge 2.dll

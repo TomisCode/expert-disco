@@ -1,0 +1,16 @@
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.exe
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.deps.json
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.runtimeconfig.json
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.runtimeconfig.dev.json
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.dll
+C:\Users\anddy\source\repos\StringMani\StringMani\bin\Debug\net5.0\StringMani.pdb
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.csproj.AssemblyReference.cache
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.AssemblyInfoInputs.cache
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.AssemblyInfo.cs
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.csproj.CoreCompileInputs.cache
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.dll
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\refint\StringMani.dll
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.pdb
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\StringMani.genruntimeconfig.cache
+C:\Users\anddy\source\repos\StringMani\StringMani\obj\Debug\net5.0\ref\StringMani.dll
